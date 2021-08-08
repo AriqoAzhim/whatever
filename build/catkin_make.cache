@@ -1,0 +1,2 @@
+lab09_gazebo:ur5e_epick_moveit_config:ur_description:ur_kinematics
+-DCATKIN_DEVEL_PREFIX=/home/mtrn4230/lab_workspaces/lab09_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mtrn4230/lab_workspaces/lab09_ws/install -G Unix Makefiles
